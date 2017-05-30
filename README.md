@@ -1,2 +1,4 @@
 # hello-sg
-Deneme SG
+Deneme ABCModified
+Master edit line 1.
+Another master edit.
